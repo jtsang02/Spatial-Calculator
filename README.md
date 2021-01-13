@@ -5,3 +5,12 @@ Spatial separation calculations are completed for every building project of new 
 The program is written in java and uses javaswing for the UI.
 
 ![image](https://user-images.githubusercontent.com/77314661/104422336-78994080-5531-11eb-8787-7ad013edd3fa.png)
+
+
+![image](https://user-images.githubusercontent.com/77314661/104422949-46d4a980-5532-11eb-9ade-f0410ed71bd0.png)
+
+![image](https://user-images.githubusercontent.com/77314661/104422774-0bd27600-5532-11eb-846b-f8e87d5600e5.png)
+
+![image](https://user-images.githubusercontent.com/77314661/104422883-33294300-5532-11eb-8b7d-f2ce591c507e.png)
+
+![image](https://user-images.githubusercontent.com/77314661/104423056-6ec40d00-5532-11eb-8e53-e451d0eecb5b.png)
