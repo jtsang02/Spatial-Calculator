@@ -9,13 +9,6 @@ import java.io.InputStreamReader;
 import java.io.OutputStream;
 import java.util.Scanner;
 
-/*
- * spatialCalc.cpp
- *
- *  Created on: Apr. 24, 2020
- *      Author: jtsan
- */
-
 public class Compartment { 
 	
 	public static String name, group, frr, constr, clad;
